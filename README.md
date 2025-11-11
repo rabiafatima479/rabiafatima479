@@ -1,5 +1,5 @@
-<h1 align="center">Assalam O Alaikum, I'm Rabia Fatima</h1>
-<h3 align="center">Full Stack Web Developer | Laravel Expert | JavaScript Enthusiast | UI/UX Designer</h3>
+<h1 align="center">Assalam O Alaikum, I'm Syeda Rabia Fatima</h1>
+<h3 align="center">Full Stack Web Developer | Laravel Expert | JavaScript Enthusiast | UI/UX Designer|Digital Marketer</h3>
 
 <br/>
 
@@ -50,15 +50,6 @@
 - 🥇 **Contest Azam Winner** – Web Designing (Aptech)
 - 🌍 **Top 10 Global Finalist** – TechWiz Global (Aptech)
 - 🏅 Represented in **AI Champ Competition** (2025)
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rabiafatima&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiafatima&layout=compact&theme=radical" width="350"/>
-</p>
 
 ---
 
